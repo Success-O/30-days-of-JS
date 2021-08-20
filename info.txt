@@ -1,0 +1,2 @@
+1a.)The scope of variable is declared with var is its current execution context and closures thereof, which is either the enclosing function and functions declared within it, or, for variables declared outside any function, global 
+b.) Var and let are both used for variable declaration in JavaScript but the difference between them is that var is a function scope and let is a blocked scope. It has been said that a variable declared with var is defined throughout the program compared to let.
